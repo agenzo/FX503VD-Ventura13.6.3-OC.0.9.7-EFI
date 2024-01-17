@@ -1,0 +1,2 @@
+# FX503VD-Ventura13.6.3-OC.0.9.7-EFI
+ASUS FX63VD i5 7300HQ+HD630 Hackintosh

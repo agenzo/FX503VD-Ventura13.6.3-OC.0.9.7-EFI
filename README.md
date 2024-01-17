@@ -25,7 +25,7 @@ ASUS FX63VD i5 7300HQ+HD630 Hackintosh<br>
 ~~8：睡眠唤醒后声卡工作异常，音频输出失真，暂时无解，重启恢复正常。~~
 <br>
 EFI BUG完善记录：<br>
-修复 Realtek ALC295 从 Windows 重启切换进入 macOS 无声的问题<br>
+修复 Realtek ALC295 从 Windows 重启切换进入 macOS没有声音或失真的问题<br>
 网上的解释：<br>
 也就是说，Windows 下的 Realtek 驱动有问题，0x07 寄存器的正确的 COEF 值应该是 0x0f80，而该驱动将这个值设为了 0x2f80，于是导致 Windows 热重启到 macOS 或是 Linux 下扬声器无声。<br>
 <br>

@@ -4,7 +4,7 @@ ASUS FX63VD i5 7300HQ+HD630 Hackintosh<br>
 主板型号：FX503VD           Bios版本：310<br>
 硬件概况：CPU：i5-7300HQ    核显：UHD630  2048M  核显驱动正常<br>
 独显：GTX1050 4G  内存：24G DDR4 2400  8G+16G 海力士<br>
-有线网卡：RTL811  无线网卡：Intel(R) Dual Band Wireless-AC 8265<br>
+有线网卡：RTL8111  无线网卡：Intel(R) Dual Band Wireless-AC 8265<br>
 硬盘：威刚512G XPG GAMMIX S11L (固态硬盘)   HDD 1T<br>
 
 功能实现概况：<br>

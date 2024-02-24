@@ -35,8 +35,8 @@ EFI BUG完善记录：<br>
 另一个方法是用 Codec Commander 来重设寄存器的值，不推荐此方法，在此不多引申了，感兴趣的朋友可以去原帖看看。<br>
 <br>
 参考：<br>
-Tonymacx86.com - Sound loss after reboot back from Windows<br>
-Tonymacx86.com - [solved] No audio after reboot from Windows (AppleHDA w/ALC 668)<br>
+<Tonymacx86.com - Sound loss after reboot back from Windows> <br>
+<Tonymacx86.com - [solved] No audio after reboot from Windows (AppleHDA w/ALC 668)> <br>
 <br>
 具体方法：<br>
 1：事先卸载Realtek 声卡驱动，卸载驱动一定要勾选删除Realtek 声卡驱动程序，防止它自己偷偷自动安装回来导致修复失败<br>

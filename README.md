@@ -1,4 +1,4 @@
-## FX503VD-Ventura13.6.3-OC.0.9.7-EFI <br>
+## FX503VD-Ventura13.6.3-EFI <br>
 # EFI 已经去掉三码，想要登录appleID 请自行生成三码<br>
 ASUS FX63VD i5 7300HQ+HD630 Hackintosh<br>
 主板型号：FX503VD           Bios版本：310<br>

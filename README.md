@@ -8,7 +8,7 @@ ASUS FX63VD i5 7300HQ+HD630 Hackintosh<br>
 硬盘：威刚512G XPG GAMMIX S11L (固态硬盘)   HDD 1T<br>
 
 2025-04-26更新功能实现概况：<br>
-系统版本 MacOS Sequoia15.4.1 <br>
+系统版本 macOS Sequoia15.4.1 <br>
 无线正常驱动，蓝牙显正常驱动连接手机，屏幕亮度调节正常，触摸板已经修复正常使用，系统音量调节正常<br>
 键盘使用正常，鼠标使用正常，电池识别正常，USB定制各个接口均能正常识别U盘,睡眠唤醒正常。<br>
 <br>
